@@ -1,7 +1,3 @@
-Here's a revised and more creative version of your project description, with an added emphasis on flair, interactivity, and excitement while incorporating the live demo link:  
-
----
-
 # 🌐✨ PDF Language Translator: Your Gateway to Multilingual Magic! 📖🗺️  
 
 Transform the way you read and share content with this **powerful web application** that translates your PDF documents into multiple languages, all while preserving the original formatting! Experience the perfect blend of advanced technology and user-friendly design, built with **React**, **TypeScript**, and powered by **Hugging Face's translation models**.
